@@ -1,0 +1,9 @@
+streamlit==1.45.0
+random
+io
+pandas
+qrcode
+io
+PIL
+os
+datetime
